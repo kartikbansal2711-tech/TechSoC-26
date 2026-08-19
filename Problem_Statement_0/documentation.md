@@ -24,5 +24,32 @@ for loop one by one in each weight .
 this is used in everry thing as we need to take input in almost every project and output and decide the variables
 
 
+# 📝 Solution Documentation (level 2)
+
+> 
+
+
+## Problem Understanding
+**What the problem is asking:** it is asking us to make different features requiring different things
+
+**Key concepts involved:** it requires us to sort and save for finding kth.the main thing is saving and like rereading the file part
+
+**My approach:** i just used bubble sort for sorting and used fstream ofstream to save my file and its contents in it.for the multi ship system i just made like diferent ship in a loop 
+
+---
+
+##  Conceptual Learning
+
+### **New Concepts I Discovered**
+- **[Concept Name]:** i learned about the fstream concept and how to use it etc and outline
+- **[Another Concept]:** i learned how to manage multiple things like the multiples ship concept
+
+### **How I Applied These Concepts**
+i just used the most basic approached for each of it and i just wrote many cout lines so it can help while operating it so we know at what step we are on
+
+### **Real-World Connections**
+i mean this is like a small port managemnt system what more real world can we use.we can make this for any business in every domain and etc
+
+
 
 
