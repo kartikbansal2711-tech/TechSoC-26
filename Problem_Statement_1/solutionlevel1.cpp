@@ -16,7 +16,7 @@ int main(){
         string s;
         
         cin>>s;
-        if(s.size()>C){}
+        
         for(int k=0;k<C;k++){
             arr[i][k]=s[k];
         }
